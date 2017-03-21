@@ -2,10 +2,6 @@
 var greetings = '<h1>Greeting</h1>' +
 '<p>This is the greeting page.</p>' + '<p> Welcome to this dummy server!</p>'
 
-// var styleBootstrap = '<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">'
-// var style = window.getElementById('shadow-root')
-// var styleSheet = style.innerHTML = '#shadow-root{background: black}'
-
 var joke1 = '<h1>Knock knock.</h1>' + '<p>Who’s there?</p>' +
 '<p>An extraterrestrial.</p>' + '<p>Extraterrestrial who?</p>' +
 '<p>What – how many extra-terrestrials do you know?</p>'
